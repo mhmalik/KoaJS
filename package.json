@@ -1,0 +1,22 @@
+{
+  "name": "hellowordapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhmalik/KoaJS.git"
+  },
+  "author": "Haseeb",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhmalik/KoaJS/issues"
+  },
+  "homepage": "https://github.com/mhmalik/KoaJS#readme",
+  "dependencies": {
+    "koa": "^1.2.1"
+  }
+}
